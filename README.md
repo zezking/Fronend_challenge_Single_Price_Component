@@ -1,6 +1,6 @@
 # Frontend Mentor - Single Price Grid Component
 
-This is a Frontendmentor Challenge.
+This is a Frontend Mentor Challenge.
 
 ## Link
 
@@ -9,7 +9,7 @@ This is a Frontendmentor Challenge.
 ## Result
 
 Desktop
-![Desktop](/screenshots/127.0.0.1_5500_.png)
+![Desktop](/screenshots/desktop.png)
 
 Mobile
 ![Mobile](/screenshots/mobile.png)
