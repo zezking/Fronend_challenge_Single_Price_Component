@@ -8,10 +8,9 @@ This is a Frontend Mentor Challenge.
 
 ## Result
 
-Desktop
+Desktop & Mobile
 ![Desktop](/screenshots/desktop.png)
 
-Mobile
 ![Mobile](/screenshots/mobile.png)
 
 Thanks for checking out this front-end coding challenge.
