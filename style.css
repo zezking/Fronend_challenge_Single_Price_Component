@@ -33,11 +33,16 @@ a {
 h1,
 h2,
 h3 {
+  font-weight: bold;
   margin-top: 0;
   line-height: 1.1;
 }
 h2 {
+  font-size:1.25rem
   margin-bottom: 1.25rem;
+}
+h3 {
+  font-size:1.1rem;
 }
 .price {
   border-radius: 0.5rem;
@@ -58,7 +63,7 @@ h2 {
   font-weight: bold;
   font-size: 1.25rem;
 }
-.community h3 {
+.community .subtitle {
   color: var(--yellow);
   font-weight: bold;
   font-size: 1rem;
@@ -66,4 +71,13 @@ h2 {
 .community p {
   line-height: 1.75;
   font-size: 0.85rem;
+}
+
+.subscription, .why {
+  color: var(--Ltgrey)
+}
+
+.subscription {
+  background-color: var(--Cyan);
+  color:var(--Ltgrey)
 }

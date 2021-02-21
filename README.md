@@ -1,6 +1,6 @@
 # Frontend Mentor - Single Price Grid Component
 
-## This is a Frontendmentro Challenge.
+## This is a Frontendmentor Challenge.
 
 ## Result
 
